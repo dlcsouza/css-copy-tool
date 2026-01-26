@@ -1,0 +1,13 @@
+{
+  "name": "css-copy-tool",
+  "version": "1.0.0",
+  "description": "Instantly copy CSS from any element",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
