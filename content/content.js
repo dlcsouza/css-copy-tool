@@ -313,7 +313,7 @@
     document.body.appendChild(overlay);
     
     // Event listeners for overlay
-    let selectedProps = new Set();
+    let selectedProps = new Map();
     
     overlay.querySelectorAll('.css-copy-tool-property').forEach(el => {
       el.addEventListener('click', () => {
