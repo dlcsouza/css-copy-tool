@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "CSS Copy Tool",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Instantly copy CSS from any element. Lightweight alternative to CSS Scan.",
   "permissions": ["activeTab", "scripting", "clipboardWrite", "storage"],
   "action": {
