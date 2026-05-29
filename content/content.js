@@ -79,6 +79,13 @@
       }
       sendResponse({ success: true });
     });
+
+    // Fallback: escuta evento customizado (injeção direta via scripting API)
+    window.addEventListener('css-copy-tool-toggle', (e) => {
+      const action = e.detail?.action;
+      if (action === 'activate') activate();
+      else if (action === 'deactivate') deactivate();
+    });
   }
 
   // Activate inspector
