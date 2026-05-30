@@ -2,7 +2,7 @@
 
 > Instantly copy CSS from any element. A lightweight, free alternative to CSS Scan.
 
-![Version](https://img.shields.io/badge/version-1.0.0-purple)
+![Version](https://img.shields.io/badge/version-1.0.2-purple)
 ![Manifest](https://img.shields.io/badge/manifest-v3-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -54,7 +54,7 @@
 
 ### From Chrome Web Store
 
-*Coming soon...*
+[Get it on the Chrome Web Store](https://chromewebstore.google.com/detail/css-copy-tool/kdaggejlblhghmjnajlmgcpblelmcepn)
 
 ## ⌨️ Keyboard Shortcuts
 
